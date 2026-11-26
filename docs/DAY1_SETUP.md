@@ -349,7 +349,7 @@ git checkout main && git pull
 
 ```bash
 cd ~/fedoraOS
-gh label create backend    --color 1d76db --description "myos-compat / Wine / Proton"
+gh label create backend    --color 1d76db --description "fedoraos-compat / Wine / Proton"
 gh label create frontend   --color 5319e7 --description "KDE GUI (Qt6 / QML / Kirigami)"
 gh label create image      --color 0e8a16 --description "recipe.yml / OS image"
 gh label create app-recipe --color fbca04 --description "Per-app Windows recipe"
